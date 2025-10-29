@@ -1,0 +1,120 @@
+*************************** START ****************************
+START TIME: 202305300227
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f9e75c
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001860c8
+manufacturer_id: 0xc8
+device_id: 0x6018
+SET FLASH PARAMS
+com closed
+Use time: 13 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202305300302
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f9e75c
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001860c8
+manufacturer_id: 0xc8
+device_id: 0x6018
+SET FLASH PARAMS
+com closed
+Use time: 6 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202305300303
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f9e75c
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001860c8
+manufacturer_id: 0xc8
+device_id: 0x6018
+SET FLASH PARAMS
+com closed
+Use time: 3 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202305300348
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f9e75c
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001860c8
+manufacturer_id: 0xc8
+device_id: 0x6018
+SET FLASH PARAMS
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202305300348
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f9e75c
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001860c8
+manufacturer_id: 0xc8
+device_id: 0x6018
+SET FLASH PARAMS
+com closed
+Use time: 1 s
+Download result: PASS
+*************************** END ****************************
+

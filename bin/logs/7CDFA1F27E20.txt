@@ -1,0 +1,69 @@
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202306050255
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f27e20
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+SET FLASH PARAMS
+com closed
+Use time: 6 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202307161722
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xa1f27e20
+mac h: 0x7cdf
+get mac res: 1
+get flash id : 0x001840c8
+manufacturer_id: 0xc8
+device_id: 0x4018
+SET FLASH PARAMS
+com closed
+Use time: 5 s
+Download result: PASS
+*************************** END ****************************
+
