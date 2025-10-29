@@ -1,11 +1,24 @@
-### Modified SmartKnob code for the MaTouch
+# Modified SmartKnob code for the MaTouch
 
 This is a modified fork of https://gitee.com/coll45/super-dial-motor-knob-screen for the hardware of the MaTouch SmartKnob https://www.makerfabs.com/matouch-smartknob-assembled.html using the ESP-IDF
 
-# Attention: 
+### Attention: 
 the Arduino code in this repo is not yet modified for the MaTouch hardware, only the IDF code.
 
-### Original README from the parent repo:
+## Demo Mode:
+currently there is a demo-mode implemented showing different grid sizes. The knob parameters for this are hardcoded in idf_code/main/ui/screens/ui_Screnn3.c
+
+On the device you can reach the demo mode by selecting custom HID in the main menu
+
+## TODOs
+- translate chinese comments
+- integrate tiny-usb midi library
+- implement basic midi CC funktions to be able to use it as a midi controller
+- create a flexible knob class that allows easy changes of the knob parameters
+- restructure userinterface, get rid of unused code
+- a lot of general refactoring
+
+# Original README from the parent repo:
 
 ![IMGP7715.JPG](image/首页1.png)
 ![IMGP7730.JPG](image/首页3.png)
@@ -105,3 +118,4 @@ QQ群：816782369
 
 
 网页ui参考了开源作者：muyan的ESP32 UPS 12V [ESP32 UPS 12V 项目链接](https://gitee.com/muyan3000/esp32-ups-12-v)
+
