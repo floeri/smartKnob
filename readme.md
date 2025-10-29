@@ -1,3 +1,12 @@
+### Modified SmartKnob code for the MaTouch
+
+This is a modified fork of https://gitee.com/coll45/super-dial-motor-knob-screen for the hardware of the MaTouch SmartKnob https://www.makerfabs.com/matouch-smartknob-assembled.html using the ESP-IDF
+
+# Attention: 
+the Arduino code in this repo is not yet modified for the MaTouch hardware, only the IDF code.
+
+### Original README from the parent repo:
+
 ![IMGP7715.JPG](image/首页1.png)
 ![IMGP7730.JPG](image/首页3.png)
 ![IMGP7730.JPG](image/首页4.png)
@@ -93,5 +102,6 @@ QQ群：816782369
 同时也感谢xknob作者mos，idf的代码更新参考了xknob功能 [xknob-项目链接](https://github.com/SmallPond/X-Knob)
 
 还有非常感谢乐鑫开发者[老酸菜](https://github.com/lijunru-hub)提供的帮助，在idf开发过程中很多代码都是直接沿用[esp-iot-solution](https://github.com/espressif/esp-iot-solution/tree/master)中的示例
+
 
 网页ui参考了开源作者：muyan的ESP32 UPS 12V [ESP32 UPS 12V 项目链接](https://gitee.com/muyan3000/esp32-ups-12-v)
